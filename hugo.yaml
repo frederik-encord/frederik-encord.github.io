@@ -1,0 +1,9 @@
+baseURL: https://frederik-encord.github.io
+languageCode: en-us
+title: ML Drops
+theme:
+  - PaperMod
+
+params:
+  cover:
+    hiddenInSingle: true # hide on single page
