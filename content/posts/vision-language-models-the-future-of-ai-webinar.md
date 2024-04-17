@@ -1,7 +1,7 @@
 ---
 title: "Vision-Language Models: The Future of AI"
 date: "2024-04-05T10:21:06+02:00"
-draft: true
+draft: false
 tags:
   - webinar
   - vfm

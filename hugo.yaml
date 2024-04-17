@@ -1,9 +1,44 @@
 baseURL: https://frederik-encord.github.io
 languageCode: en-us
-title: ML Drops
+title: ML Log
 theme:
   - PaperMod
 
 params:
+  description: "This is a content collection of the publicly available stuff that I've done with Encord"
+  author: Frederik Hvilshøj
+
+  defaultTheme: auto
+  ShowShareButtons: true
+  ShowReadingTime: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+
   cover:
     hiddenInSingle: true # hide on single page
+
+  homeInfoParams:
+    Title: "Fred's ML Log"
+    Content: >
+      👋 Welcome to my log of ML-related content.
+
+  socialIcons:
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/frederik-encord"
+    - name: X
+      title: Share the blog on X/Twitter
+      url: "https://x.com/intent/tweet/?text=Checkout%20this%20ml%20content&url=https://encord-frederik.github.com&hashtags=ml,multi-modal"
+    - name: LinkedIn
+      title: See related posts on LinkedIn.
+      url: "https://www.linkedin.com/in/fhvilshoj/"
+
+    - name: YouTube
+      title: See video playlist on YouTube.
+      url: "https://youtube.com/playlist?list=PLXKyb4pEmCzGTMzl4NhTUdcV9w9L9mukv&si=IFrpH0CYUDJrcWAZ"
